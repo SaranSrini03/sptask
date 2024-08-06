@@ -1,0 +1,111 @@
+/* src/LandingPage.css */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #0a0a0a;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-button {
+    background-color: #00ff99;
+    border: none;
+    padding: 10px 20px;
+    color: #000;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #1a1a1a;
+  }
+  
+  .hero-text {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .cta-button {
+    background-color: #00ff99;
+    border: none;
+    padding: 15px 30px;
+    color: #000;
+    cursor: pointer;
+    font-size: 1.2rem;
+    margin-top: 20px;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 20px;
+    background-color: #2a2a2a;
+  }
+  
+  .feature {
+    text-align: center;
+    max-width: 300px;
+  }
+  
+  .trusted-by {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #3a3a3a;
+  }
+  
+  .logos img {
+    margin: 0 10px;
+    max-height: 50px;
+  }
+  
+  .provisioning {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #4a4a4a;
+  }
+  
+  .provision-button {
+    background-color: #00ff99;
+    border: none;
+    padding: 10px 20px;
+    color: #000;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+  
+  .footer {
+    background-color: #0a0a0a;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .stats {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .stat {
+    text-align: center;
+  }
+  

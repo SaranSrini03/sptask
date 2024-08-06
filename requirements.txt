@@ -1,0 +1,8 @@
+pandas
+flask
+transformers
+requests
+beautifulsoup4
+flask-cors
+nltk
+flask-caching
